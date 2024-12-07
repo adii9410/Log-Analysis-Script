@@ -1,0 +1,14 @@
+IP Address           Request Count
+192.168.1.1          6
+203.0.113.5          9
+10.0.0.2             5
+198.51.100.23        7
+192.168.1.100        7
+
+Most Frequently Accessed Endpoint:
+/home (Accessed 4 times)
+
+Suspicious Activity Detected:
+IP Address           Failed Login Attempts
+203.0.113.5          8
+192.168.1.100        6
